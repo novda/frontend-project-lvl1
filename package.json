@@ -12,8 +12,12 @@
   },
   "author": "",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/novda/frontend-project-lvl1/issues"
+  },
+  "bin": {
+    "brain-games": "bin/brain-games.js"
   },
   "homepage": "https://github.com/novda/frontend-project-lvl1#readme"
 }
