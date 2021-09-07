@@ -85,3 +85,23 @@ Your answer: 1
 '1' is wrong answer ;(. Correct answer was '15'.
 Let's try again, Sam!
 ```
+
+**Prime:** :sa:
+```bash
+$ brain-prime
+
+#right way
+Welcome to the Brain Games!
+May I have your name? Sam
+Hello, Sam!
+Answer "yes" if given number is prime. Otherwise answer "no".
+Question: 7
+Your answer: yes
+Correct!
+
+#bad way
+Question: 5 
+Your answer: 'no'
+'no' is wrong answer ;(. Correct answer was 'yes'.
+Let's try again, Sam!
+```
