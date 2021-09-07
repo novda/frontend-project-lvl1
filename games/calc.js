@@ -36,7 +36,7 @@ const startGame = () => {
 
   const name = start.welcomePack();
   welcome(name);
-
+  console.log('What is the result of the expression?');
   start.startGame(questionArray, trueAnswers, name);
 };
 
