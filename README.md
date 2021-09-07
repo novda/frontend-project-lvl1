@@ -59,7 +59,7 @@ Your answer: 1
 Let's try again, Sam!
 ```
 
-**Progression:**
+**Progression:** :1234:	
 ```bash
 $ brain-progression
 
