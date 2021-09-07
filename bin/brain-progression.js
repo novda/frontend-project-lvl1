@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /* eslint-disable import/extensions */
 
-import startGame from '../games/progression';
+import startGame from '../games/progression.js';
 
 startGame();

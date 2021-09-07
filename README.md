@@ -57,3 +57,31 @@ Question: 25 50
 Your answer: 1
 '1' is wrong answer ;(. Correct answer was '25'.
 Let's try again, Sam!
+```
+
+**Progression:**
+```bash
+$ brain-progression
+
+#right way
+Welcome to the Brain Games!
+May I have your name? Sam
+Hello, Sam!
+What number is missing in the progression?
+Question: 5 7 9 11 13 .. 17 19 21 23
+Your answer: 15
+Correct!
+Question: 2 5 8 .. 14 17 20 23 26 29
+Your answer: 11
+Correct!
+Question: 14 19 24 29 34 39 44 49 54 ..
+Your answer: 59
+Correct!
+Congratulations, Sam!
+
+#bad way
+Question: 5 7 9 11 13 .. 17 19 21 23
+Your answer: 1
+'1' is wrong answer ;(. Correct answer was '15'.
+Let's try again, Sam!
+```
