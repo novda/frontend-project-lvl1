@@ -31,6 +31,7 @@ Your answer: 145
 '145' is wrong answer ;(. Correct answer was '175'.
 Let's try again, Sam!
 ```
+[ascii]('https://asciinema.org/a/6csPKmrZFMacHdJeILUUlOw9M')
 
 **GCD:** :ng:
 ```bash
