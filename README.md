@@ -31,7 +31,7 @@ Your answer: 145
 '145' is wrong answer ;(. Correct answer was '175'.
 Let's try again, Sam!
 ```
-[![asciicast](https://asciinema.org/a/6csPKmrZFMacHdJeILUUlOw9M.svg)](https://asciinema.org/a/6csPKmrZFMacHdJeILUUlOw9M)
+[ascii]('https://asciinema.org/a/6csPKmrZFMacHdJeILUUlOw9M')
 
 **GCD:** :ng:
 ```bash
@@ -59,6 +59,7 @@ Your answer: 1
 '1' is wrong answer ;(. Correct answer was '25'.
 Let's try again, Sam!
 ```
+[![asciicast](https://asciinema.org/a/JSl3TczaJv8zKzaueAFx9zbeo.svg)](https://asciinema.org/a/JSl3TczaJv8zKzaueAFx9zbeo)
 
 **Progression:** :1234:	
 ```bash
@@ -86,6 +87,7 @@ Your answer: 1
 '1' is wrong answer ;(. Correct answer was '15'.
 Let's try again, Sam!
 ```
+[![asciicast](https://asciinema.org/a/VuRSu5IpQFDukP9l7giQHPHEW.svg)](https://asciinema.org/a/VuRSu5IpQFDukP9l7giQHPHEW)
 
 **Prime:** :sa:
 ```bash
@@ -106,3 +108,4 @@ Your answer: 'no'
 'no' is wrong answer ;(. Correct answer was 'yes'.
 Let's try again, Sam!
 ```
+[![asciicast](https://asciinema.org/a/hMPKgL8JBbV7YWkBp7JrUYdYm.svg)](https://asciinema.org/a/hMPKgL8JBbV7YWkBp7JrUYdYm)
