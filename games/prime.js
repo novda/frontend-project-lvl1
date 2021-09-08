@@ -43,7 +43,7 @@ const startGame = () => {
   };
 
   for (let i = 0; i < 3; i += 1) {
-    const rand1 = Math.floor(Math.random() * 10000);
+    const rand1 = Math.floor(Math.random() * 3572);
     questionArray.push(`${rand1}`);
     trueAnswers.push(isPrime(rand1));
   }
